@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hamsini 👋
 
-<!--
-**hamsinimanoharr/hamsinimanoharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE (Data Science) student at New Horizon College of Engineering, Bengaluru · Class of 2027
 
-Here are some ideas to get you started:
+I'm building my skills in Python and data science, one project at a time.
+I also create content on YouTube and Instagram.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently
+- Working through 100 Days of Python
+- Exploring data analysis and ML
+
+### 🛠 Tools
+Python · pandas · Git · VS Code
+
+### 📫 Find me
+[LinkedIn](https://www.linkedin.com/in/hamsinimanohar/) · [YouTube](https://www.youtube.com/@hamsinimanoharr)
